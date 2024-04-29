@@ -1,0 +1,89 @@
+
+1. Sebuah GPU itu 5500
+   Sebuah Webcam 5500
+
+   jika GPU lebih besar dari webcam sebanyak 5000 berapa harga dari masing masing GPU dan webcam
+
+   Jelaskan:
+    jadi kalau gpu itu lebih mahal dari webcam sebanyak 5000 ini bisa memiliki banyak value di sini tidak di clasifikasikan bahwa kita harus menggunakan
+info yang kita dapatkan sebelumnya karena mereka membilangnya dengan kata "jika", jadi harga Webcam bisa berapa aja yang penting GPU itu beharga lebih 5000 lebih 
+mahal.
+
+2. Note: 
+kereta cepat berjalan dengan konstan 
+waktu kereta cepat tempuh adalah 30 menit
+jika kereta berjalan 50 km/jam mereka sampe 10 menit lebih cepet
+
+
+   Jarak stasion bandung dengan jakarta:
+    50 km/jam dan kita sampe dalam 20 menit 50 km itu kalau di ubah menjadi m/menit 833.333 m/menit, jadi kalau mau dapet berapakah jarak bisa tinggal dikalikan
+    20 
+    833.333 x 20 = 16,666.66 meter
+    jadinya 16 km jarak dari bandung ke jakarta.
+
+
+3. Note:
+Polisi selalu jujur, Pencuri selalu bohong
+
+ada 3 suspect
+Hari        : "Salah satu pernyataan yang saya katakan adalah benar, yaitu Budi adalah pencuri atau saya adalah polisi"
+Lestari     : "Hari bisa saja menuduh bahwa saya adalah pencuri"
+Budi        : "Lestari dan Hari bukanlah seorang polisi"
+
+Jadi 
+budi bisa jadi pencuri atau polisi
+Lestari membilang bahwa hari menunduh dia bisa saja jadi pencuri?? (tp ini tidak terjadi)
+Lestari dan Hari bukanlah seorang polisi
+
+kata bisa saja itu tidak bisa di bilang sesuatu yang concrete jadi kita tidak bisa langsung memasuki Lestari sebagai pembohong.
+
+Hari bilang bahwa salah satunya itu bener tp walaupun argumen dia bisa saja bahwa dia "tidak bohong karena dia bilang salahsatunyabener" tp dia sama aja bohong
+di salah satunya. 
+
+
+Hari (Pencuri)
+Lestari (Pencuri)
+Budi (Polisi)
+
+
+4. Ari, Bani, Cia, Danny, dan Elang.
+
+Ari sebelum Elang tetapi setelah Cia
+Bani menghabiskan setelah Danny 
+Cia menghabiskan setelah Danny sebelum Bani 
+
+Cia habis setelah Danny, tapi dia habis sebelum bany dan Ari
+bani habis setelah Danny karena danny habis setelah Cia jadi Bani di belakang Danny dan Cia
+ari belum elang tapi setelah Cia jadi Cia deluan dan karena Cia itu lebih cepet dari danny dan bani jadi ari di 
+
+1st = Danny
+2nd = Cia 
+3rd = Ari
+4th = Bani
+5th = Elang
+
+
+5. Note: 
+Chaca lebih bahagia daripada Rey, meskipun tugasnya tidak sebanyak Rey
+Prita tidak sebahagia Rey dan tugasnya tidak sebanyak Rey maupun Chaca
+Yunjin lebih bahagia daripada Chaca, tetapi tugasnya lebih banyak dari Chaca
+
+Chaca tugas kurang dari rey tapi lebih bahagia dari rey
+prita tugas kurang dari rey dan chaca tp dia tidak sebahagia Rey
+Yunjin lebih bahagia dari chaca, tapi tugasnya lebih banyak dari chaca tapi kurang dari Rey
+
+Yunjin
+Chaca
+Rey
+Prita
+
+jadi yang paling bahagia adalah Yunjin.
+
+6. Note:
+
+Chaca kurang dari rey
+yunjin lebih dari chaca tapi kurang dari rey
+prita kurang dari rey dan chaca
+rey lebih dari chaca, yunjin, dan prita
+
+Jadi Rey paling banyak tugasnya.
